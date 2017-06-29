@@ -23,4 +23,7 @@ You also need to download some files to follow this lesson:
 $ cd
 $ cd Desktop/r-novice-inflammation/data
 ~~~
+
+Note: that unix text is not case-sensitive.
+
 {: .bash}
